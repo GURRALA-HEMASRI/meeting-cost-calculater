@@ -9,23 +9,23 @@ This application helps teams calculate the real-time cost of meetings based on p
 
 ---
 # Innomick Assignment
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/buld-log.jpeg)
+![BUILD LOG](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/buld-log.jpeg)
 
 ## Output
 ### Login Page
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/login.png)
+![LOGIN](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/login.png)
 
 ### Calculator Page
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/calculater.png)
+![CALCULATOR](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/calculater.png)
 \
 ### History Page
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/HISTORYY.png)
+![HISTORY](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/HISTORYY.png)
 
 ### Analytics
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/ANALYTICS.png)
+![ANALYTICS](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/ANALYTICS.png)
 
 ### dashboard
-![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/DASHBOARD.png)
+![DASHBOARD](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/DASHBOARD.png)
 
 
 # Features
