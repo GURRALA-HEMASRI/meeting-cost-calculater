@@ -8,6 +8,25 @@ A full-stack Meeting Cost Calculator web application built using React.js, Node.
 This application helps teams calculate the real-time cost of meetings based on participant hourly rates, meeting duration, and agenda quality. It also provides AI-inspired recommendations on whether a meeting is worth conducting.
 
 ---
+# Innomick Assignment
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/buld-log.jpeg)
+
+## Output
+### Login Page
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/login.png)
+
+### Calculator Page
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/calculater.png)
+\
+### History Page
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/HISTORYY.png)
+
+### Analytics
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/ANALYTICS.png)
+
+### dashboard
+![image alt](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/663ba1b79fb6e8e71882078d2f70949ec2750a41/DASHBOARD.png)
+
 
 # Features
 
@@ -143,28 +162,7 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/meeting_calculator
 
 # Environment Variables
 
-## Backend .env
 
-```env
-PORT=5000
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-
-## Frontend .env
-
-```env
-VITE_API_URL=http://localhost:5000/api
-```
-
----
-
-# Actual Project Features (Analyzed from ZIP)
-
-## Authentication System
-
-* User Registration
 * User Login
 * JWT Authentication
 * Protected Routes
@@ -255,81 +253,7 @@ VITE_API_URL=http://localhost:5000/api
 
 Developed by Hema Sri
 
----
 
-# License
-
-This project is developed for educational and portfolio purposes.
-
-````
-
----
-
-# .gitignore
-
-```gitignore
-# Dependencies
-node_modules/
-
-# Environment Variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Build folders
-dist/
-build/
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# Coverage
-coverage/
-
-# Vite
-.vite/
-
-# Cache
-.cache/
-
-# Optional npm cache directory
-.npm
-
-# Mac system files
-.AppleDouble
-.LSOverride
-
-# Temporary files
-*.tmp
-*.temp
-
-# Database files
-*.sqlite
-*.db
-
-# Uploaded files
-uploads/
-````
 
 ---
 
