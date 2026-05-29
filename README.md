@@ -1,13 +1,12 @@
 # README.md
 
-````md
 # Meeting Cost Calculator
 
 A full-stack Meeting Cost Calculator web application built using React.js, Node.js, Express.js, and MySQL.
 
 This application helps teams calculate the real-time cost of meetings based on participant hourly rates, meeting duration, and agenda quality. It also provides AI-inspired recommendations on whether a meeting is worth conducting.
 
----
+
 # Innomick Assignment
 ![BUILD LOG](https://github.com/GURRALA-HEMASRI/meeting-cost-calculater/blob/e94c7cceb44a2a1846c9671cfcd5b07cc08fa57c/buld-log.jpeg)
 
