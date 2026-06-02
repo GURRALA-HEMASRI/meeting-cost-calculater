@@ -143,22 +143,6 @@ http://localhost:5000
 
 Create a MongoDB Atlas cluster or use local MongoDB.
 
-## Backend .env
-
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
-
-Example:
-
-```env
-MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/meeting_calculator
-```
-
----
-
 # Environment Variables
 
 
@@ -251,9 +235,3 @@ MONGO_URI=mongodb+srv://username:password@cluster.mongodb.net/meeting_calculator
 # Author
 
 Developed by Hema Sri
-
-
-
----
-
-#
